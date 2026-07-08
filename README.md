@@ -37,7 +37,7 @@ Differentiates user distribution segments between first-time, returning, and hig
 ### 5. Geospatial Analytics & Hub Tracking
 Isolates localized performance parameters down to specific pickup hubs (e.g., Khandsa, Saket, AIIMS, Ashram) while cross-referencing average trip distance distributions and regional driver/customer ratings.
 
-![Location Hub View](Location.jpg)
+![Location Hub View](Location.png)
 
 ---
 
