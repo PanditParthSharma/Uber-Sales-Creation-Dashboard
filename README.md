@@ -17,12 +17,12 @@ The report is designed with an intuitive, app-like landing interface allowing us
 ### 1. High-Level Operations Overview
 Provides a macro window into key performance indicators (KPIs) such as total revenue ($51.85M), booking completion vs. loss trends, volume hot-spots by location, and peak booking hourly time slots.
 
-![Operations Overview View](Overview.jpg)
+![Operations Overview View](Overview.png)
 
 ### 2. Revenue & Financial Insights
 Tracks cyclical revenue performance across months and quarters, breaking down absolute booking value streams by transaction payment methods (UPI, Cash, Wallets) and isolating high-value corporate or individual customer segments.
 
-![Revenue Insights View](Revenue.jpg)
+![Revenue Insights View](Revenue.png)
 
 ### 3. Vehicle & Fleet Optimization
 Deep-dives into fleet distribution matrix models. This view tracks operational volume metrics, revenue share, and completion trend lines categorized entirely by vehicle segments (Auto, Bike, Go Mini, Sedan, Premier, XL).
