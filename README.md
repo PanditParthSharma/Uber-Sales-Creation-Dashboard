@@ -8,7 +8,7 @@ A comprehensive Power BI dashboard designed to analyze ride-hailing operational 
 ## 🧭 Application Navigation Hub
 The report is designed with an intuitive, app-like landing interface allowing users to seamlessly navigate through specific business dimensions using interactive buttons:
 
-![Uber Analytics Home Interface](Home page.png)
+![Uber Analytics Home Interface](Overview.png)
 
 ---
 
