@@ -1,14 +1,14 @@
 
 # 🚖 Uber Ride Operations & Revenue Analytics Dashboard
 
-A comprehensive Power BI dashboard designed to analyze ride-hailing operational performance, driver/rider behaviors, revenue generation, and vehicle utilization tracking across 93K completed bookings.
+A comprehensive Power BI Project (`.pbip`) designed to analyze ride-hailing operational performance, driver/rider behaviors, revenue generation, and vehicle utilization tracking across 93K completed bookings.
 
 ---
 
 ## 🧭 Application Navigation Hub
 The report is designed with an intuitive, app-like landing interface allowing users to seamlessly navigate through specific business dimensions using interactive buttons:
 
-![Uber Analytics Home Interface](Overview.png)
+![Uber Analytics Home Interface](Home page.png)
 
 ---
 
